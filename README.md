@@ -21,3 +21,5 @@ In the final project, I trained a deep learning model to classify fresh vs. rott
 ✅ Results
 - Validation Loss: 2.0618
 - **Validation Accuracy: 94.53%**
+
+Issue Date: : December 6, 2025 | Certification ID: OF-eT0JaT46lcH5eexFBug
